@@ -1,4 +1,4 @@
-@EndToEnd
+@Regression
 Feature: Automate end to end scenario
 
   Background: Generate Token

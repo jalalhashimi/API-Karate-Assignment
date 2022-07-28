@@ -7,6 +7,6 @@ public class RunnerReview {
 
 	public Karate runReviewTest() {
 		//This is a test data for git bash
-		return Karate.run("classpath:features").tags("@EndToEnd");
+		return Karate.run("classpath:features").tags("@Regression");
 	}
 }
