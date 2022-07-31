@@ -31,7 +31,7 @@ Feature: Automate end to end scenario
         "lastName": "#(lastName)",
         "title": "#(title)",
         "gender": "MALE",
-        "maritalStatus": "SINGLE",
+        "maritalStatus": "MARRIED",
         "employmentStatus": "Employed",
         "dateOfBirth": "#(dob)",
         "new": true
