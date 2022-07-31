@@ -1,4 +1,4 @@
-@Regression
+@Smoke
 Feature: Automate end to end scenario
 
   Background: Generate Token
